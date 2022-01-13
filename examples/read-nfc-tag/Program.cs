@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using NdefLibrary.Ndef;
+﻿using NdefLibrary.Ndef;
 using PCSC;
 using System.Text;
 

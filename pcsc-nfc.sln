@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pcsc-nfc", "src\pcsc-nfc\pc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "read-nfc-tag", "examples\read-nfc-tag\read-nfc-tag.csproj", "{F162DE95-2407-423F-B7FE-66B156E1C401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "watch-for-tags", "examples\watch-for-tags\watch-for-tags.csproj", "{9EAA92CA-E0DA-4882-99F1-60039F65898E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F162DE95-2407-423F-B7FE-66B156E1C401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F162DE95-2407-423F-B7FE-66B156E1C401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F162DE95-2407-423F-B7FE-66B156E1C401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAA92CA-E0DA-4882-99F1-60039F65898E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAA92CA-E0DA-4882-99F1-60039F65898E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAA92CA-E0DA-4882-99F1-60039F65898E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAA92CA-E0DA-4882-99F1-60039F65898E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
